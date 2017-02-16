@@ -1,7 +1,7 @@
 
 ### cORF_predictio_pipeline ####
 
-usage: cORF_predictio_pipeline.py [input data, options] 
+usage: cORF_predictio_pipeline.py [input data] 
 
 input data:
 
